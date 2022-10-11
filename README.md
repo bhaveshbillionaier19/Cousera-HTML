@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aling="right" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Ue5HF-WclmHrIJS1B66Yz&ust=1665558715424000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD3s-7P1_oCFQAAAAAdAAAAABAE">
+<img aling="right" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Ue5HF-WclmHrIJS1B66Yz&ust=1665558715424000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD3s-7P1_oCFQAAAAAdAAAAABAE.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshbillionaier19&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshbillionaier19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshbillionaier19" alt="bhaveshbillionaier19" /></a> </p>
